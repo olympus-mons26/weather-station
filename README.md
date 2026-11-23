@@ -46,4 +46,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ***
 
-**Made by Baljit Panda ([olympus-mons26](https://github.com/olympus-mons26/))**
+**Made by Baljit Panda ([olympus-mons26](https://github.com/olympus-mons26/weather-station))**
