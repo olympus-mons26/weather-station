@@ -40,4 +40,8 @@ A reading is marked **WARNING** when either gas sensor exceeds 350. A reading is
 | Buzzer              | Positive (+)  | D8              |
 |                     | Negative (-)  | GND             |
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 **Made by Baljit Panda ([olympus-mons26](https://github.com/olympus-mons26/))**

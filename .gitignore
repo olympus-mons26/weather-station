@@ -1,0 +1,11 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.eep
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
